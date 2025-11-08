@@ -10,6 +10,10 @@ Jekyll::Hooks.register :site, :post_read do |site|
     # Store the relative URL from site root
     @page_lookup[basename] = page.url
   end
+  
+  # Debug: print some lookup entries
+  puts "Wiki-link lookup table has #{@page_lookup.size} entries"
+  puts "Sample: Classical Conditioning -> #{@page_lookup['Classical Conditioning']}" if @page_lookup['Classical Conditioning']
 end
 
 Jekyll::Hooks.register :documents, :pre_render do |document, payload|
@@ -36,10 +40,13 @@ def convert_obsidian_links(doc, site)
       # Look up the actual page URL
       if @page_lookup && @page_lookup[page_name]
         page_url = @page_lookup[page_name].gsub(/\/$/, '')
-        "[#{text}](#{baseurl}#{page_url}##{fragment})"
+        # Use absolute path starting with /
+        full_url = "#{baseurl}#{page_url}##{fragment}"
+        "<a href=\"#{full_url}\">#{text}</a>"
       else
-        # Fallback to simple conversion
-        "[#{text}](#{baseurl}/#{page_name.gsub(' ', '%20')}##{fragment})"
+        # Fallback to simple conversion with absolute path
+        full_url = "#{baseurl}/#{page_name.gsub(' ', '%20')}##{fragment}"
+        "<a href=\"#{full_url}\">#{text}</a>"
       end
     else
       # Remove .md extension if present
@@ -47,10 +54,14 @@ def convert_obsidian_links(doc, site)
       
       # Look up the actual page URL
       if @page_lookup && @page_lookup[link]
-        "[#{text}](#{baseurl}#{@page_lookup[link]})"
+        page_url = @page_lookup[link]
+        # Use absolute path starting with /
+        full_url = "#{baseurl}#{page_url}"
+        "<a href=\"#{full_url}\">#{text}</a>"
       else
-        # Fallback to simple conversion
-        "[#{text}](#{baseurl}/#{link.gsub(' ', '%20')})"
+        # Fallback to simple conversion with absolute path
+        full_url = "#{baseurl}/#{link.gsub(' ', '%20')}"
+        "<a href=\"#{full_url}\">#{text}</a>"
       end
     end
   end
