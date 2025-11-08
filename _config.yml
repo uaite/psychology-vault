@@ -10,6 +10,18 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
+# Default frontmatter for all files
+defaults:
+  - scope:
+      path: ''
+    values:
+      layout: 'default'
+  - scope:
+      path: ''
+      type: 'pages'
+    values:
+      layout: 'page'
+
 # Collections
 collections:
   notes:
@@ -44,6 +56,14 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+
+# Titles from headings
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: true
 
 # Convert wiki-links to regular links
 relative_links:
