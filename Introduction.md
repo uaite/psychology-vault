@@ -1,3 +1,8 @@
+---
+dg-home: true
+dg-publish: true
+---
+
 Psychology is hard to define as it is a vast discipline, encompassing the study of perceptions, emotions, thoughts, observable behaviors, and more, from several perspectives. We can try to simplify it to the study of the mind, brain, and behavior.
 
 Psychology is a discipline that spans multiple **levels of analysis**. Think of it as steps on a ladder, with the bottom steps tied closer to biological influences, and the higher, to social and cultural influences. To fully understand psychology, we need to consider multiple levels of analysis. Think of watching a city from a glass elevator: as you ascend, you get a broader view of how things connect and influence each other, but close to the ground, you see the details of the roads, bridges, and buildings.
