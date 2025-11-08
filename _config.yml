@@ -62,11 +62,7 @@ plugins:
   - jekyll-relative-links
   - jekyll-optional-front-matter
   - jekyll-titles-from-headings
-  - jekyll-wikilinks
-
-# Jekyll-wikilinks configuration
-wikilinks:
-  enabled: true
+  - jekyll-wikirefs
 
 # Titles from headings
 titles_from_headings:

@@ -9,7 +9,7 @@ group :jekyll_plugins do
   gem "jekyll-relative-links"
   gem "jekyll-optional-front-matter"
   gem "jekyll-titles-from-headings"
-  gem "jekyll-wikilinks"
+  gem "jekyll-wikirefs"
 end
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
