@@ -1,0 +1,7 @@
+Another challenge to behaviorist theory (see [[Classical Conditioning]] and [[Operant Conditioning]]) which comes from the research of psychologist Wolfgang Köhler, one of the founders of [[Gestalt principles|Gestalt]] psychology. 
+
+In his experiments, he used chimpanzees, and one of them was especially adept at solving puzzles. Sultan, the chimpanzee, was inside a cage and a bunch of bananas was sitting outside of his reach. He pondered for a long time, and realized he could use two bamboo sticks, one inside another, to reach the bananas.
+
+The notable part of this case was the "Aha" moment. The solution to the problem didn't come from trial and error, but rather from **insight**. The chimp seemed to suddenly understand the solution to the problem, and from them on, they would get it right basically every time.
+
+However, Köhler's observations were anecdotal and unsystematic. The scientist only videotaped some of the chimps' problem solving, so it can't be ruled out that they did go through trial and error while not being watched. Also, since the chimps were in the same cage, they could have gone through observational learning. Still, this work suggests some smart animals can learn through insight. There's good evidence that humans can too (Dawes, 1994).

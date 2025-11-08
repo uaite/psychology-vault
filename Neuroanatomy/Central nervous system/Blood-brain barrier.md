@@ -1,0 +1,1 @@
+A protective shield that insulates the brain from bacterial infection, many poisons and other intruders. Tiny blood vessels are wrapped with a fatty coating, blocking large molecules, highly charged particles and water soluble molecules from entering the brain.

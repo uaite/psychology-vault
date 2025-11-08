@@ -1,0 +1,1 @@
+A response previously associated with a non-neutral stimulus, now elicited by a neutral stimulus.

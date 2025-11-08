@@ -1,0 +1,1 @@
+The response to an [[Unconditioned stimulus (UCS)]].

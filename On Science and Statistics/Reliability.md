@@ -1,0 +1,3 @@
+Refers to the consistency of a measure. One way to measure it is that the measure should give the same result over time. For example, intelligence should not change much over time. Consequently, if you did an intelligence test today and again in one year, the score should be the same if the test is reliable.
+
+There is an important relationship between reliability and [[Validity|validity]] to keep in mind. A test must be reliable to be valid, but a reliable test can still be invalid. Consequently, reliability is a requirement of a test/measure being valid. But validity is not a requirement of a test/measure being reliable.

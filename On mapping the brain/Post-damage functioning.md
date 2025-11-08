@@ -1,0 +1,3 @@
+The main new method after the downfall of [[Phrenology|phrenology]] is studying psychological functioning after damage to specific brain regions. Many contemporary neuroscientists create lesions in experimental animal using *stereotaxic techniques*, which allow them to pinpoint the location of specific brain areas.
+
+Neuropsychologists today rely on sophisticated tests, such as standardized measures of reasoning, attention, and verbal and spatial ability, to infer where the damage happened in human patients. These tests require specialized training to administer, score, and interpret.

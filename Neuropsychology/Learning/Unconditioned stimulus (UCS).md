@@ -1,0 +1,1 @@
+A stimulus that elicits an automatic, reflexive response.

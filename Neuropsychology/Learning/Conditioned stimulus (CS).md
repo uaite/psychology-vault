@@ -1,0 +1,1 @@
+A previously neutral stimulus that started to elicit a [[Conditioned response (CR)]] as a result of association with an [[Unconditioned stimulus (UCS)]].

@@ -1,0 +1,5 @@
+A woman who stayed in cortical death, a persistent vegetative state, for 15 years.
+
+She collapsed in her home after a temporary cardiac arrest, which deprived her brain of oxygen and resulted in severe brain damage. The deep structures in her brain stem that control breathing, heart rate, digestion, and certain reflexive responses were still operating, so she wasn't [[Brain stem#Medulla|brain dead]], but the higher cerebral structures necessary for awareness were damaged permanently. Her doctors knew that much of her cortex had withered away, and a future autopsy revealed she lost about half of her brain.
+
+Those who believe that death of the higher brain centers, which are essential for consciousness, is equivalent to actual death felt that Schiavo had died following her collapse. Nevertheless, her death raises difficult questions: should brain death be the true criterion for death, or should this criterion instead be the permanent loss of consciousness? 

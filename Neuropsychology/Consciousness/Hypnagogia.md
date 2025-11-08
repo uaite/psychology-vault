@@ -1,0 +1,1 @@
+The transitional state from wakefulness to sleep.

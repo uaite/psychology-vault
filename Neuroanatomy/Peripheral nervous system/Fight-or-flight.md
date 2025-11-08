@@ -1,0 +1,1 @@
+When encountering threats, the sympathetic nervous system becomes aroused, preparing fo fighting or fleeing. In extreme cases, when the threat is unavoidable, we may simply freeze, which can be an evolutionary adaptation from when some predators lose interest in their prey.

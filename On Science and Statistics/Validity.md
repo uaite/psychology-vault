@@ -1,0 +1,1 @@
+Refers to the extent to which a measure assesses what it claims to assess. If the measure is assessing intelligence, it needs to actually be measuring intelligence rather than creativity, for example. 

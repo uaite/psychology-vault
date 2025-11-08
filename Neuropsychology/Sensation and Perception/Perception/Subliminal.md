@@ -1,0 +1,7 @@
+Perception below the threshold of conscious awareness.
+
+If we can detect stimuli without knowing or paying direct attention to them, does that affect behavior?
+
+>When participants can’t correctly identify the content of the stimulus at better-than-chance levels, researchers deem it subliminal. The claim for subliminal perception may seem extraordinary, but there’s considerable evidence for the phenomenon (Seitz & Watanabe, 2003). When investigators subliminally trigger emotions by exposing participants to words related to anger, these participants are more likely to rate other people as hostile (Bargh & Pietromonaco, 1982). In one study, researchers subliminally presented participants with words such as church, saint, and preacher, and then provided them with an opportunity to cheat on a different task. None of the participants who subliminally received religious words cheated, compared with 20 percent of those who subliminally received neutral, nonreligious words (Randolph-Seng & Nielsen, 2007). For unclear reasons, the effects of subliminal information often vanish when participants become aware of or even suspect attempts to influence them subliminally, and even these effects are typically very short-lived (Glaser & Kihlstrom, 2005; Kihlstrom, 2015).
+
+Although we are susceptible to **subliminal perception**, that doesn't mean we can be **subliminally persuaded**. There's no evidence to support meaningful improvement from subliminal self-help material.

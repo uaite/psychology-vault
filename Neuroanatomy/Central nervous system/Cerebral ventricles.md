@@ -1,0 +1,1 @@
+Pockets full of fluid that extend through the brain and spinal cord. This clear fluid is called cerebrospinal fluid (CSF) and it bathes the brain and spinal cord, providing nutrients and cushioning. It's what absorbs shock and allows us to move our head rapidly.

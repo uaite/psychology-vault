@@ -1,0 +1,3 @@
+The glands in males are testes, and in females, ovaries. The sex hormone testosterone is associated with males, and estrogen, with females. However, both sex hormones are present in both sexes, although in diminished levels in the opposite one. In women, the ovaries produce about 1/20 the amount of testosterone produced by men; in men, the testes manufature estrogen in low levels as well.
+
+Evidence suggests testosterone is linked to sex drive in both sexes, but to a lesser degree in women. Needs more research.

@@ -1,0 +1,1 @@
+Plays a critical role in the reward system of the brain, when we seek out or anticipate goals, whether they're sex, a meal, or a gambling jackpot. Research also shows that brain areas rich in dopamine activate when we hear a funny joke (Schultz, 2012).

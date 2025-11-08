@@ -1,0 +1,3 @@
+A rare condition where [[Sleep#Stage 5 - REM sleep|REM sleep]] doesn't paralyze the body on occasion. People with this condition can act our their dreams.
+
+In RBD, the brain stem structures that usually stop movement don't function properly. This condition may be an early marker of dementia and Parkinson's disease, emerging an average of 14 to 25 years before major symptoms of neurodegenerative diseases.

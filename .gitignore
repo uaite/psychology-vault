@@ -1,0 +1,15 @@
+# Obsidian workspace settings (user-specific)
+.obsidian/workspace.json
+.obsidian/workspace
+
+# Cache
+.obsidian/cache
+
+# Plugins (uncomment if you want to ignore all plugins)
+# .obsidian/plugins
+
+# macOS
+.DS_Store
+
+# Trash
+.trash/

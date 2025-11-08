@@ -1,0 +1,7 @@
+Cells in the [[Cerebral cortex#Prefrontal cortex|prefrontal cortex]] that activate when an animal performs an action or observes it being performed. They are called **mirror neurons** precisely because the same cells that activate when the organism performs or watches an action.
+
+Mirror neurons appear to be very selective. They only activate for a monkey when they watch another monkey **actively engage** in action, like grabbing a piece of food. If watching a stationary monkey or the piece of food that another monkey grabbed, they don't activate. These neurons also seem to be tuned to specific behaviors. Researchers found one mirror neuron in monkeys which fires only when they themselves or the person they're observing grab a peanut, and another, different mirror neuron that activates for eating the peanut (Winerman, 2005).
+
+Researchers have also identified what appears to be a similar mirror neuron system in humans using brain-imaging techniques, but individual mirror neurons have yet to be found.
+
+The reason why mirror neurons exist is still unclear, but scientists believe it has to do with empathy, and that they play a key role in autism, which is often associated with difficulties adopting other people's perspectives. However, recently, their nature and function have become controversial since this theory is not clear and the findings are limited, correlational at best.
