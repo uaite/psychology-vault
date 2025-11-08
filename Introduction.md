@@ -1,7 +1,4 @@
----
-dg-home: true
-dg-publish: true
----
+# Psychology
 
 Psychology is hard to define as it is a vast discipline, encompassing the study of perceptions, emotions, thoughts, observable behaviors, and more, from several perspectives. We can try to simplify it to the study of the mind, brain, and behavior.
 

@@ -1,0 +1,51 @@
+title: Psychology Notes
+description: A digital garden of psychology concepts and notes
+theme: minima
+baseurl: '/psychology-vault'
+url: 'https://uaite.github.io'
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Collections
+collections:
+  notes:
+    output: true
+    permalink: /:collection/:name
+
+# Exclude Obsidian specific files
+exclude:
+  - .obsidian/
+  - .trash/
+  - .DS_Store
+  - README.md
+  - .env
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+
+# Include these directories as pages
+include:
+  - Cases
+  - 'Genetics and environment'
+  - Images
+  - 'Interactive Prompts'
+  - Neuroanatomy
+  - Neurophysiology
+  - Neuropsychology
+  - 'On mapping the brain'
+  - 'On Science and Statistics'
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-relative-links
+
+# Convert wiki-links to regular links
+relative_links:
+  enabled: true
+  collections: true
