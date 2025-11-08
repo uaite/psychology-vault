@@ -7,13 +7,16 @@ Jekyll::Hooks.register :site, :post_read do |site|
   (site.pages + site.docs_to_write).each do |page|
     # Get the page name without extension
     basename = File.basename(page.path, '.*')
-    # Store the relative URL from site root
+    # Store the relative URL from site root (page.url already has the full path)
     @page_lookup[basename] = page.url
+    
+    # Debug: Print lookups for Learning pages
+    if page.url.include?('Learning')
+      puts "Indexed: #{basename} -> #{page.url}"
+    end
   end
   
-  # Debug: print some lookup entries
   puts "Wiki-link lookup table has #{@page_lookup.size} entries"
-  puts "Sample: Classical Conditioning -> #{@page_lookup['Classical Conditioning']}" if @page_lookup['Classical Conditioning']
 end
 
 Jekyll::Hooks.register :documents, :pre_render do |document, payload|
