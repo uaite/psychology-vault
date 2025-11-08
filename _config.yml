@@ -9,6 +9,10 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+  auto_ids: true
+
+# Permalinks
+permalink: pretty
 
 # Default frontmatter for all files
 defaults:
